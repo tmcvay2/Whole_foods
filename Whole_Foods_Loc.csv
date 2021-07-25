@@ -1,0 +1,460 @@
+Longitude,Latitude,Whole Foods Store,Address,City,States & Territory,Zip Code
+-86.752554,33.460451,Whole Foods,3100 Cahaba Village Plaza,Birmingham,Alabama,35242
+-86.5904161,34.712443,Whole Foods,2501 Memorial Pkwy SW,Huntsville,Alabama,35800
+-88.1504613,30.6761375,Whole Foods,3968 Airport Blvd,Mobile,Alabama,36607
+-86.1714041,32.3578148,Whole Foods,1450 Taylor Rd,Montgomery,Alabama,36116
+-94.1450778,36.1135626,Whole Foods,3425 N College Avenue,Fayetteville,Arkansas,72702
+-92.405983,34.750473,Whole Foods,501 Bowman Road,Little Rock,Arkansas,72210
+-111.892393,33.320132,Whole Foods,2955 West Ray Road,Chandler,Arizona,85223
+-111.6410751,35.1913071,Whole Foods,320 S Cambridge Lane,Flagstaff,Arizona,86000
+-111.978134,33.584612,Whole Foods,10810 N Tatum Blvd,Phoenix,Arizona,85027
+-112.037912,33.506196,Whole Foods,4701 N 20th Street,Phoenix,Arizona,85015
+-111.927354,33.654928,Whole Foods,7111 E Mayo Blvd,Phoenix,Arizona,85053
+-112.4837723,34.5596733,Whole Foods,1112 Iron Springs Rd,Prescott,Arizona,86304
+-111.7852765,34.8629323,Whole Foods,1420 West Hwy 89A,Sedona,Arizona,86335
+-111.928906,33.378687,Whole Foods,5120 S Rural Rd,Tempe,Arizona,85281
+-110.921533,32.235935,Whole Foods,3360 E Speedway Blvd.,Tucson,Arizona,85715
+-110.873985,32.273719,Whole Foods,5555 E River Road,Tucson,Arizona,85749
+-110.978152,32.335801,Whole Foods,7133 N Oracle Rd,Tucson,Arizona,85703
+-123.0052198,49.2662909,Whole Foods,4420 Lougheed Highway,Burnaby,British Columbia,V5C3Z1
+-123.133193,49.290233,Whole Foods,1675 Robson Street,Vancouver,British Columbia,V6G1C6
+-123.156918,49.268388,Whole Foods,2285 West 4th Avenue,Vancouver,British Columbia,V6K1N7
+-123.115258,49.264039,Whole Foods,510 West 8th Avenue,Vancouver,British Columbia,V5Z1C3
+-123.376,48.4569895,Whole Foods,3587 Blanshard St,Victoria,British Columbia,V8Z0B7
+-123.142566,49.325598,Whole Foods,925 Main St,West Vancouver,British Columbia,V7T2Z1
+-122.2972036,37.8802485,Whole Foods,1025 Gilman Street,Berkeley,California,94709
+-122.259834,37.85609,Whole Foods,3000 Telegraph Ave,Berkeley,California,94704
+-118.397859,34.069018,Whole Foods,239 North Crescent Dr,Beverly Hills,California,90209
+-117.8521248,33.9097336,Whole Foods,3301 Imperial Hwy,Brea,California,92822
+-121.93155,37.29278,Whole Foods,1690 South Bascom Ave,Campbell,California,95007
+-121.963826,36.974335,Whole Foods,1710 41st Avenue,Capitola,California,95009
+-122.039909,37.323129,Whole Foods,20955 Stevens Creek Blvd,Cupertino,California,95013
+-121.74127,38.541659,Whole Foods,500 First Street,Davis,California,95615
+-117.250041,32.980821,Whole Foods,2600 Via De La Valle,Del Mar,California,92013
+-121.8914632,37.7061671,Whole Foods,5200 Dublin Blvd,Dublin,California,94567
+-118.395989,33.904149,Whole Foods,760 South Sepulveda Blvd,El Segundo,California,90244
+-117.293084,33.044019,Whole Foods,687 S Coast Highway 101,Encinitas,California,92023
+-121.119582,38.648862,Whole Foods,270 Palladio Parkway,Folsom,California,95629
+-121.984129,37.554582,Whole Foods,3111 Mowry Avenue,Fremont,California,94537
+-119.805184,36.808548,Whole Foods,650 W Shaw Ave,Fresno,California,93703
+-118.245595,34.150658,Whole Foods,331 North Glendale Ave,Glendale,California,91205
+-117.99149,33.732085,Whole Foods,7881 Edinger Ave Suite 150,Huntington Beach,California,92646
+-117.233263,32.867942,Whole Foods,8525 Irvine Center Drive,Irvine,California,92617
+-117.2740021,32.8473015,Whole Foods,8825 Villa La Jolla Dr,La Jolla,California,92036
+-122.117711,37.892877,Whole Foods,3502 Mt Diablo Blvd,Lafayette,California,94548
+-117.78397,33.543968,Whole Foods,283 Broadway St,Laguna Beach,California,92650
+-117.71374,33.555318,Whole Foods,23932 Aliso Creek Road,Laguna Niguel,California,92676
+-118.109317,33.755837,Whole Foods,6550 E Pacific Coast Highway,Long Beach,California,90802
+-122.109944,37.399098,Whole Foods,4800 El Camino Real,Los Altos,California,94021
+-118.447074,34.061174,Whole Foods,1050 S Gayley Ave,Los Angeles,California,90023
+-118.437823,34.022916,Whole Foods,11666 National Blvd,Los Angeles,California,90063
+-118.467255,34.053543,Whole Foods,11737 San Vicente Blvd,Los Angeles,California,90048
+-118.2591674,34.1030806,Whole Foods,2520 Glendale Blvd,Los Angeles,California,90038
+-118.360365,34.071303,Whole Foods,6350 West 3rd Street,Los Angeles,California,90035
+-118.2577197,34.0459958,Whole Foods,788 S Grand Avenue,Los Angeles,California,90016
+-121.962677,37.236096,Whole Foods,15980 Los Gatos Blvd,Los Gatos,California,95031
+-122.535859,37.896086,Whole Foods,414 Miller Ave,Mill Valley,California,94940
+-122.525693,37.902433,Whole Foods,731 East Blithedale,Mill Valley,California,94940
+-121.900349,36.584438,Whole Foods,800 Del Monte Center,Monterey,California,93939
+-122.306463,38.322541,Whole Foods,3682 Bel Aire Plaza,Napa,California,94557
+-117.872815,33.614678,Whole Foods,415 Newport Center Drive,Newport Beach,California,92659
+-118.555016,34.274784,Whole Foods,19340 Rinaldi Street,Northridge,California,91325
+-122.565924,38.10561,Whole Foods,790 De Long Avenue,Novato,California,94944
+-122.261018,37.812663,Whole Foods,230 Bay Place,Oakland,California,94611
+-119.179542,34.24108,Whole Foods,650 Town Center Drive,Oxnard,California,93035
+-116.4000854,33.7254181,Whole Foods,44459 Town Center Way,Palm Desert,California,92259
+-122.159504,37.442468,Whole Foods,774 Emerson Street,Palo Alto,California,94300
+-118.071868,34.150384,Whole Foods,3751 E Foothill Blvd,Pasadena,California,91106
+-118.147593,34.137616,Whole Foods,465 South Arroyo Parkway,Pasadena,California,91104
+-122.634196,38.240377,Whole Foods,621 E Washington St,Petaluma,California,94951
+-118.4242783,33.974659,Whole Foods,12746 West Jefferson Blvd,Playa Vista,California,90093
+-118.388143,33.847252,Whole Foods,405 North Pacific Coast Hwy,Redondo Beach,California,90276
+-122.231204,37.482327,Whole Foods,1250 Jefferson Ave,Redwood City,California,94061
+-121.266042,38.766312,Whole Foods,1001 Galleria Blvd,Roseville,California,95677
+-121.363917,38.595698,Whole Foods,4315 Arden Way,Sacramento,California,95863
+-117.15804,32.748249,Whole Foods,711 University Ave,San Diego,California,92102
+-122.455,37.723901,Whole Foods,1150 Ocean Ave,San Francisco,California,94111
+-122.42332,37.790103,Whole Foods,1765 California St,San Francisco,California,94108
+-122.427138,37.768408,Whole Foods,2001 Market Street,San Francisco,California,94113
+-122.430868,37.751889,Whole Foods,3950 24th Street,San Francisco,California,94113
+-122.399641,37.780875,Whole Foods,399 4th Street,San Francisco,California,94106
+-122.402679,37.764135,Whole Foods,450 Rhode Island St,San Francisco,California,94106
+-122.453282,37.769486,Whole Foods,690 Stanyan Street,San Francisco,California,94116
+-121.877587,37.250446,Whole Foods,1146 Blossom Hill Road,San Jose,California,95117
+-121.9051285,37.3325081,Whole Foods,777 The Alameda,San Jose,California,95125
+-120.6886788,35.2518862,Whole Foods,1531 Froom Ranch Way,San Luis Obispo,California,93404
+-122.291807,37.54445,Whole Foods,1010 Park Place,San Mateo,California,94402
+-122.516815,37.970657,Whole Foods,340 Third St,San Rafael,California,94900
+-121.960417,37.761562,Whole Foods,100 Sunset Drive,San Ramon,California,94582
+-119.745648,34.440401,Whole Foods,3761 State Street,Santa Barbara,California,93104
+-121.9764449,37.3823011,Whole Foods,2732 Augustine Drive,Santa Clara,California,95053
+-118.55635,34.412892,Whole Foods,24130 Valencia Blvd,Santa Clarita,California,91354
+-122.014158,36.978853,Whole Foods,911 Soquel Ave,Santa Cruz,California,95061
+-118.495021,34.032517,Whole Foods,1425 Montana Ave,Santa Monica,California,90402
+-118.481518,34.032861,Whole Foods,2201 Wilshire Blvd,Santa Monica,California,90402
+-118.4972,34.019876,Whole Foods,500 Wilshire Blvd,Santa Monica,California,90400
+-122.673922,38.442259,Whole Foods,1181 Yulupa Ave,Santa Rosa,California,95404
+-122.731642,38.458116,Whole Foods,390 Coddingtown Mall,Santa Rosa,California,95400
+-122.823604,38.403669,Whole Foods,6910 McKinley St,Sebastopol,California,95471
+-118.414041,34.157793,Whole Foods,12905 Riverside Drive,Sherman Oaks,California,91422
+-118.46668,34.152025,Whole Foods,4520 N Sepulveda Blvd,Sherman Oaks,California,91402
+-122.461512,38.292113,Whole Foods,201 W Napa St,Sonoma,California,95475
+-118.540809,34.170686,Whole Foods,18700 Ventura Blvd,Tarzana,California,91355
+-118.874357,34.18832,Whole Foods,740 North Moorpark Rd,Thousand Oaks,California,91359
+-118.332357,33.791554,Whole Foods,2655 Pacific Coast Hwy,Torrance,California,90504
+-117.823746,33.698041,Whole Foods,2847 Park Avenue,Tustin,California,92781
+-118.470077,34.001582,Whole Foods,225 Lincoln Blvd,Venice,California,90290
+-122.055191,37.893605,Whole Foods,1333 Newell Ave,Walnut Creek,California,94595
+-122.015358,37.9259262,Whole Foods,2941 Ygnacio Valley Rd,Walnut Creek,California,94597
+-118.360909,34.090968,Whole Foods,7871 Santa Monica Blvd,West Hollywood,California,90045
+-118.596427,34.167794,Whole Foods,21347 Ventura Blvd,Woodland Hills,California,91363
+-107.083317,39.387458,Whole Foods,340 Reed Street,Basalt,Colorado,81620
+-105.280914,40.025648,Whole Foods,1275 Alpine Ave,Boulder,Colorado,80303
+-105.262134,40.000114,Whole Foods,2584 Baseline Rd,Boulder,Colorado,80304
+-105.255818,40.023006,Whole Foods,2905 Pearl St,Boulder,Colorado,80300
+-104.961243,39.593956,Whole Foods,6853 South York Street,Centennial,Colorado,80121
+-104.717634,38.878833,Whole Foods,3180 New Center Point,Colorado Springs,Colorado,80921
+-104.799301,38.941868,Whole Foods,7635 North Academy Blvd,Colorado Springs,Colorado,80919
+-104.979418,39.696271,Whole Foods,1111 S Washington Street,Denver,Colorado,80209
+-104.958456,39.718419,Whole Foods,2375 E 1st Ave,Denver,Colorado,80205
+-104.901539,39.653048,Whole Foods,7400 E Hampden Ave,Denver,Colorado,80230
+-104.976294,39.733585,Whole Foods,900 E 11th Ave,Denver,Colorado,80217
+-105.077298,40.55901,Whole Foods,2201 S College Ave,Fort Collins,Colorado,80524
+-106.0978088,39.5900803,Whole Foods,261 Lusher Court,Frisco,Colorado,80442
+-104.940484,39.700966,Whole Foods,870 S Colorado Blvd,Glendale,Colorado,80245
+-105.162581,39.733211,Whole Foods,14357 W Colfax Ave,Golden,Colorado,80400
+-104.943541,39.545698,Whole Foods,9366 S Colorado Blvd,Highlands Ranch,Colorado,80125
+-105.081364,39.707805,Whole Foods,444 S Wadsworth Blvd,Lakewood,Colorado,80225
+-105.092259,39.623243,Whole Foods,5155 S Wadsworth Blvd,Littleton,Colorado,80122
+-105.1287155,40.1454277,Whole Foods,1250 South Hover Road,Longmont,Colorado,80500
+-105.169827,39.956474,Whole Foods,303 Marshall Rd,Superior,Colorado,80026
+-105.0381012,39.9128799,Whole Foods,4451 Main St,Westminster,Colorado,80030
+-73.474901,41.37864,Whole Foods,5C Sugar Hollow Road,Danbury,Connecticut,6809
+-73.474925,41.072968,Whole Foods,150 Ledge Road,Darien,Connecticut,6819
+-73.2419,41.157197,Whole Foods,350 Grasmere Avenue,Fairfield,Connecticut,6823
+-72.608575,41.713695,Whole Foods,55 Welles Street,Glastonbury,Connecticut,6032
+-73.624018,41.033487,Whole Foods,90 E. Putnam Ave,Greenwich,Connecticut,6829
+-73.024516,41.248248,Whole Foods,1686 Boston Post Road,Milford,Connecticut,6459
+-72.746516,41.783774,Whole Foods,340 N Main St,West Hartford,Connecticut,6116
+-72.739254,41.760885,Whole Foods,50 Raymond Rd,West Hartford,Connecticut,6106
+-73.379348,41.129118,Whole Foods,399 Post Road West,Westport,Connecticut,6879
+-77.033042,38.909521,Whole Foods,1440 P Street NW,Washington,DC,20004
+-77.049386,38.900846,Whole Foods,2201 I Street NW,Washington,DC,20036
+-77.071885,38.921191,Whole Foods,2323 Wisconsin Ave NW,Washington,DC,20006
+-77.078854,38.948512,Whole Foods,4530 40th St NW Tenley Circle,Washington,DC,20015
+-81.3819109,28.6625321,Whole Foods,305 East Altamonte Drive,Altamonte Springs,Florida,32700
+-80.143389,25.970949,Whole Foods,21105 Biscayne Blvd,Aventura,Florida,33179
+-80.108863,26.365371,Whole Foods,1400 Glades Rd,Boca Raton,Florida,33430
+-82.7364731,28.0176353,Whole Foods,27001 US 19 North,Clearwater,Florida,33760
+-80.285494,25.709429,Whole Foods,6701 Red Road,Coral Gables,Florida,33142
+-80.254374,26.2414,Whole Foods,810 University Drive,Coral Springs,Florida,33070
+-80.2512719,26.0966002,Whole Foods,1903 S University Drive,Davie,Florida,33323
+-86.4196014,30.3903046,Whole Foods,4402 Legendary Drive,Destin,Florida,32540
+-80.118364,26.153376,Whole Foods,2000 N Federal Hwy,Fort Lauderdale,Florida,33304
+-81.624764,30.185405,Whole Foods,10601 San Jose Blvd,Jacksonville,Florida,32256
+-80.1888549,25.7719289,Whole Foods,299 SE 3rd Ave,Miami,Florida,33130
+-80.141056,25.780839,Whole Foods,1020 Alton Road,Miami Beach,Florida,33138
+-81.800744,26.254163,Whole Foods,9101 Strada Place,Naples,Florida,34107
+-80.165381,25.887996,Whole Foods,12150 Biscayne Blvd,North Miami,Florida,33180
+-81.476876,28.44936,Whole Foods,8003 Turkey Lake Road,Orlando,Florida,32818
+-80.093165,26.847672,Whole Foods,11701 Lake Victoria Gardens Ave,Palm Beach Gardens,Florida,33409
+-80.349368,26.006924,Whole Foods,14956 Pines Blvd,Pembroke Pines,Florida,33026
+-80.325057,25.662832,Whole Foods,11701 South Dixie Highway,Pinecrest,Florida,33155
+-80.1020889,26.24296,Whole Foods,2411 N Federal Highway,Pompano Beach,Florida,33061
+-82.541647,27.337399,Whole Foods,1451 1st Street,Sarasota,Florida,34235
+-84.270589,30.46315,Whole Foods,1817 Thomasville Road,Tallahassee,Florida,32302
+-82.505694,27.95682,Whole Foods,1548 North Dale Mabry Highway,Tampa,Florida,33606
+-82.504054,28.09282,Whole Foods,3802 Northdale Blvd,Tampa,Florida,33623
+-80.203972,26.640999,Whole Foods,2635 State Road 7,Wellington,Florida,33413
+-80.0885329,26.7203573,Whole Foods,1845 Palm Beach Lakes Boulevard,West Palm Beach,Florida,33400
+-81.3650874,28.6066449,Whole Foods,1030 N Orlando Ave,Winter Park,Florida,32788
+-84.2796978,34.0690052,Whole Foods,2800 Old Milton Pkwy,Alpharetta,Georgia,30008
+-84.334337,33.81522,Whole Foods,2111 Briarcliff Rd Nebraska,Atlanta,Georgia,30328
+-84.379332,33.916826,Whole Foods,5930 Roswell Rd,Atlanta,Georgia,30327
+-84.365381,33.773479,Whole Foods,650 Ponce de Leon Ave Nebraska,Atlanta,Georgia,30307
+-84.381952,33.840434,Whole Foods,77 West Paces Ferry Rd NW,Atlanta,Georgia,30304
+-82.0394287,33.5130081,Whole Foods,2907 Washington Rd,Augusta,Georgia,30908
+-84.187878,34.01675,Whole Foods,5945 State Bridge Rd,Johns Creek,Georgia,30096
+-84.425394,33.980812,Whole Foods,1311 Johnson Ferry Road Nebraska,Marietta,Georgia,30067
+-84.512164,33.950099,Whole Foods,70 Powers Ferry Rd SE,Marietta,Georgia,30066
+-81.071787,32.044231,Whole Foods,1815 E Victory Drive,Savannah,Georgia,31403
+-157.786948,21.278403,Whole Foods,4211 Wai'alae Avenue,Honolulu,Hawaii,96815
+-156.464528,20.891556,Whole Foods,70 East Kaahumanu Avenue #B,Kahului,Hawaii,96731
+-157.742917,21.393892,Whole Foods,629 Kailua Road,Kailua,Hawaii,96733
+-93.758483,41.598989,Whole Foods,4100 University Ave Suite #260,West Des Moines,Iowa,50265
+-116.19418,43.606866,Whole Foods,401 S. Broadway,Boise,Idaho,83701
+-87.6468964,41.8824692,Whole Foods,1 N Halsted Street,Chicago,Illinois,60660
+-87.639083,41.868482,Whole Foods,1101 S Canal St,Chicago,Illinois,60606
+-87.653223,41.91091,Whole Foods,1550 N Kingsbury Street,Chicago,Illinois,60641
+-87.6213226,41.8913651,Whole Foods,255 E Grand Ave,Chicago,Illinois,60610
+-87.62923,41.894991,Whole Foods,30 West Huron St,Chicago,Illinois,60653
+-87.668839,41.941633,Whole Foods,3300 N Ashland Ave,Chicago,Illinois,60656
+-87.649632,41.948359,Whole Foods,3640 N Halsted St,Chicago,Illinois,60612
+-87.58818,41.801872,Whole Foods,5118 S Lake Park Ave,Chicago,Illinois,60614
+-87.6596527,41.9910812,Whole Foods,6009 North Broadway,Chicago,Illinois,60659
+-87.748454,41.990167,Whole Foods,6020 N Cicero Ave,Chicago,Illinois,60645
+-87.6462708,41.7799683,Whole Foods,832 W 63rd Street,Chicago,Illinois,60620
+-87.6532649,41.9253469,Whole Foods,959 West Fullerton Avenue,Chicago,Illinois,60613
+-87.84708,42.166746,Whole Foods,760 Waukegan Rd,Deerfield,Illinois,60014
+-87.9627483,41.8942239,Whole Foods,215 S Illinois Rte 83,Elmhurst,Illinois,60125
+-87.679962,42.037889,Whole Foods,1111 Chicago Ave,Evanston,Illinois,60201
+-87.679513,42.0469,Whole Foods,1640 Chicago Ave,Evanston,Illinois,60200
+-87.7023903,42.068532,Whole Foods,2748 Green Bay Road,Evanston,Illinois,60200
+-87.918195,41.817868,Whole Foods,500 E Ogden Ave,Hinsdale,Illinois,60520
+-88.044486,42.158736,Whole Foods,20281 N Rand Road,Kildeer,Illinois,60073
+-88.200212,41.747397,Whole Foods,2607 W 75th Street,Naperville,Illinois,60539
+-87.800177,42.105537,Whole Foods,840 Willow Road,Northbrook,Illinois,60061
+-87.854439,41.613257,Whole Foods,15260 S LaGrange Road,Orland Park,Illinois,60461
+-87.825057,42.01081,Whole Foods,225 W Touhy Ave,Park Ridge,Illinois,60067
+-87.805994,41.888407,Whole Foods,7245 Lake St,River Forest,Illinois,60304
+-88.036464,42.042261,Whole Foods,750 N Martingale Rd,Schaumburg,Illinois,60172
+-88.1018322,41.8307521,Whole Foods,89 Danada Square East,Wheaton,Illinois,60186
+-87.947334,41.772834,Whole Foods,6300 S Robert Kingery Highway,Willowbrook,Illinois,60526
+-86.130156,39.999919,Whole Foods,14598 Clay Terrace Blvd,Carmel,Indiana,46031
+-86.138236,39.912742,Whole Foods,1300 E 86th St,Indianapolis,Indiana,46239
+-86.186983,41.700229,Whole Foods,4230 Grape Road,Mishawaka,Indiana,46544
+-87.4712247,41.5186107,Whole Foods,199 US HWY 41,Schererville,Indiana,46374
+-94.7558624,38.912675,Whole Foods,14615 W 119th Street,Olathe,Kansas,66061
+-94.661885,38.912722,Whole Foods,6621 West 119th Street,Overland Park,Kansas,66208
+-94.671628,38.963836,Whole Foods,7401 West 91st St,Overland Park,Kansas,66211
+-97.2262942,37.7091309,Whole Foods,1423 N Webb Rd,Wichita,Kansas,67205
+-84.524008,37.995843,Whole Foods,161 Lexington Green Circle,Lexington,Kentucky,40502
+-85.625437,38.250292,Whole Foods,4944 Shelbyville Road,Louisville,Kentucky,40206
+-91.11089,30.430798,Whole Foods,7529 Corporate Blvd,Baton Rouge,Louisiana,70808
+-92.0540511,30.1612332,Whole Foods,4247 Ambassador Caffery Pkwy,Lafayette,Louisiana,70507
+-90.0847276,30.3923665,Whole Foods,3450 Highway 190,Mandeville,Louisiana,70470
+-90.159156,30.003199,Whole Foods,3420 Veterans Memorial Blvd,Metairie,Louisiana,70001
+-90.084978,29.967212,Whole Foods,300 N Broad St,New Orleans,Louisiana,70118
+-90.117191,29.921135,Whole Foods,5600 Magazine Street,New Orleans,Louisiana,70114
+-93.7302118,32.443386,Whole Foods,1380 E 70th St,Shreveport,Louisiana,71104
+-71.144697,42.65913,Whole Foods,40 Railroad St,Andover,Massachusetts,1809
+-71.159876,42.416085,Whole Foods,808 Massachusetts Avenue,Arlington,Massachusetts,2475
+-71.274273,42.490073,Whole Foods,170 Great Rd,Bedford,Massachusetts,1729
+-71.461576,42.11482,Whole Foods,255 Hartford Ave,Bellingham,Massachusetts,2018
+-71.086554,42.343507,Whole Foods,15 Westland Ave,Boston,Massachusetts,2114
+-71.065397,42.361322,Whole Foods,181 Cambridge St,Boston,Massachusetts,2113
+-71.0636795,42.3449725,Whole Foods,348 Harrison Avenue,Boston,Massachusetts,2117
+-71.140647,42.342655,Whole Foods,15 Washington Street,Brighton,Massachusetts,2134
+-71.10822,42.34606,Whole Foods,1028 Beacon Street,Brookline,Massachusetts,2445
+-71.102059,42.368126,Whole Foods,115 Prospect St,Cambridge,Massachusetts,2138
+-71.143031,42.388594,Whole Foods,200 Alewife Brook Pkwy,Cambridge,Massachusetts,2137
+-71.114349,42.361968,Whole Foods,340 River St,Cambridge,Massachusetts,2138
+-71.066196,42.375042,Whole Foods,51 Austin St,Charlestown,Massachusetts,2128
+-71.17748,42.232577,Whole Foods,300 Legacy Place,Dedham,Massachusetts,2025
+-71.421394,42.298211,Whole Foods,575 Worcester Rd,Framingham,Massachusetts,1700
+-72.558055,42.354022,Whole Foods,327 Russell St,Hadley,Massachusetts,1034
+-70.906626,42.180222,Whole Foods,Derby Street Shoppes,Hingham,Massachusetts,2042
+-70.3020722,41.671785,Whole Foods,990 Iyannough Road,Hyannis,Massachusetts,2600
+-71.110885,42.32134,Whole Foods,413 Centre Street,Jamaica Plain,Massachusetts,2129
+-71.0320723,42.5148676,Whole Foods,100 Market Street,Lynnfield,Massachusetts,1939
+-71.127437,42.417586,Whole Foods,2151 Mystic Valley Parkway,Medford,Massachusetts,2154
+-71.0618113,42.46443,Whole Foods,880 Main Street,Melrose,Massachusetts,2175
+-71.206518,42.329889,Whole Foods,916 Walnut St,Newton,Massachusetts,2460
+-71.169235,42.351398,Whole Foods,647 Washington Street,Newtonville,Massachusetts,2457
+-71.103044,42.375887,Whole Foods,45 Beacon Street,Somerville,Massachusetts,2142
+-70.9533615,42.1713753,Whole Foods,35 Pleasant Street,South Weymouth,Massachusetts,2189
+-70.903203,42.480935,Whole Foods,331 Paradise Rd,Swampscott,Massachusetts,1906
+-71.364952,42.363026,Whole Foods,317 Boston Post Rd,Wayland,Massachusetts,1777
+-71.286013,42.30176,Whole Foods,442 Washington Street,Wellesley,Massachusetts,2481
+-71.4201584,42.5681725,Whole Foods,160 Littleton Road,Westford,Massachusetts,1885
+-71.165083,42.460504,Whole Foods,400 Cambridge Rd,Woburn,Massachusetts,1800
+-76.539725,38.982187,Whole Foods,200 Harker PIace,Annapolis,Maryland,21400
+-76.600155,39.284168,Whole Foods,1001 Fleet Street,Baltimore,Maryland,21201
+-76.649322,39.367982,Whole Foods,1330 Smith Ave,Baltimore,Maryland,21208
+-77.105043,38.966015,Whole Foods,5269 River Rd,Bethesda,Maryland,20815
+-77.08691,38.961812,Whole Foods,4420 Willard Ave,Chevy Chase,Maryland,20814
+-76.8580399,39.2192116,Whole Foods,10275 Little Patuxent Pkwy,Columbia,Maryland,21043
+-77.239644,39.123404,Whole Foods,316 Kentlands Blvd,Gaithersburg,Maryland,20877
+-77.113353,39.042972,Whole Foods,11355 Woodglen Drive,Rockville,Maryland,20851
+-77.022841,38.996564,Whole Foods,833 Wayne Ave,Silver Spring,Maryland,20909
+-70.25869,43.663939,Whole Foods,2 Somerset St,Portland,Maine,4100
+-83.698156,42.25737,Whole Foods,3135 Washtenaw Ave,Ann Arbor,Michigan,48103
+-83.758221,42.246946,Whole Foods,990 W Eisenhower Parkway,Ann Arbor,Michigan,48102
+-83.0568928,42.3480684,Whole Foods,115 Mack Ave,Detroit,Michigan,48200
+-84.457425,42.7280476,Whole Foods,2750 E Grand River Ave,East Lansing,Michigan,48822
+-83.159155,42.681597,Whole Foods,2918 Walton Blvd,Rochester Hills,Michigan,48308
+-83.184059,42.547619,Whole Foods,2880 West Maple Rd,Troy,Michigan,48083
+-83.36064,42.530619,Whole Foods,7350 Orchard Lake Road,West Bloomfield,Michigan,48321
+-93.327489,44.867501,Whole Foods,7401 France Ave S,Edina,Minnesota,55434
+-93.436,45.091329,Whole Foods,12201 Elm Creek Blvd N,Maple Grove,Minnesota,55368
+-93.269269,44.982789,Whole Foods,222 Hennepin Avenue,Minneapolis,Minnesota,55400
+-93.32155,44.946869,Whole Foods,3060 Excelsior Blvd,Minneapolis,Minnesota,55415
+-93.445443,44.973632,Whole Foods,1001 Plymouth Road,Minnetonka,Minnesota,55304
+-93.1667668,44.9466046,Whole Foods,1575 Selby Ave,St Paul,Minnesota,55103
+-90.346612,38.627183,Whole Foods,1601 S Brentwood Blvd,Saint Louis,Missouri,63143
+-90.2612143,38.641674,Whole Foods,4577 West Pine Blvd,St. Louis,Missouri,63107
+-90.516513,38.622102,Whole Foods,1160 Town and Country Crossing,Town and Country,Missouri,63016
+-90.149885,32.354919,Whole Foods,4500 I-55 N,Jackson,Mississippi,39210
+-82.52408,35.58274,Whole Foods,4 South Tunnel Rd,Asheville,North Carolina,28804
+-82.554488,35.601992,Whole Foods,70 Merrimon Ave,Asheville,North Carolina,28800
+-78.777898,35.736574,Whole Foods,102B New Waverly Place,Cary,North Carolina,27517
+-79.028049,35.933874,Whole Foods,81 South Elliot Road,Chapel Hill,North Carolina,27513
+-80.829738,35.147626,Whole Foods,6610 Fairview Rd,Charlotte,North Carolina,28209
+-78.919915,36.006208,Whole Foods,621 Broad Street,Durham,North Carolina,27704
+-79.834042,36.086173,Whole Foods,3202 West Friendly Avenue,Greensboro,North Carolina,27407
+-80.8722916,35.44384,Whole Foods,9129 Sam Furr Rd,Huntersville,North Carolina,28077
+-78.685317,35.801417,Whole Foods,3540 Wade Ave,Raleigh,North Carolina,27606
+-78.650237,35.898892,Whole Foods,8710 Six Forks Rd,Raleigh,North Carolina,27614
+-77.90127,34.213575,Whole Foods,3804 Oleander Drive,Wilmington,North Carolina,28402
+-80.274997,36.095159,Whole Foods,41 Miller Street,Winston Salem, North Carolina,27103
+-96.639202,40.812812,Whole Foods,6055 O Street,Lincoln,Nebraska,68509
+-96.069673,41.260782,Whole Foods,10020 Regency Circle,Omaha,Nebraska,68113
+-71.4779393,42.9541229,Whole Foods,121 South River Rd,Bedford,New Hampshire,3109
+-71.497459,42.7788084,Whole Foods,255 Amherst Street,Nashua,New Hampshire,3062
+-75.0084351,39.91574,Whole Foods,1558 North Kings Highway,Cherry Hill,New Jersey,8033
+-74.304885,40.631725,Whole Foods,1255 Raritan Road Unit 150,Clark,New Jersey,7065
+-73.9568918,40.9695511,Whole Foods,45 Vervalen Street,Closter,New Jersey,7623
+-73.973981,40.825696,Whole Foods,905 River Road,Edgewater,New Jersey,7019
+-74.405392,40.752974,Whole Foods,222 Main St,Madison,New Jersey,7939
+-74.2486267,40.3142204,Whole Foods,113 Route 9 South,Marlboro,New Jersey,7725
+-74.938572,39.907601,Whole Foods,940 Route 73 North,Marlton,New Jersey,8052
+-74.222774,40.818139,Whole Foods,701 Bloomfield Ave,Montclair,New Jersey,7041
+-74.4886932,40.7991257,Whole Foods,110 Washington Street,Morristown,New Jersey,7959
+-74.056777,40.915328,Whole Foods,300 Bergen Town Center,Paramus,New Jersey,7651
+-74.629349,40.33884,Whole Foods,3495 US Route 1 South,Princeton,New Jersey,8539
+-74.088685,40.375396,Whole Foods,471 State Route 35 North,Red Bank,New Jersey,7700
+-74.122941,40.978879,Whole Foods,44 Godwin Ave,Ridgewood,New Jersey,7449
+-74.286641,40.717061,Whole Foods,2245 Springfield Ave,Vauxhall,New Jersey,7087
+-74.0714035,40.1193695,Whole Foods,1933 State Road 35,Wall,New Jersey,7718
+-74.247082,40.804613,Whole Foods,235 Prospect Ave,West Orange,New Jersey,7051
+-105.953868,35.102203,Whole Foods,2103 Carlisle Boulevard Nebraska,Albuquerque,New Mexico,87109
+-106.554679,35.146933,Whole Foods,5815 Wyoming Blvd Nebraska,Albuquerque,New Mexico,87108
+-105.949788,35.674526,Whole Foods,1090 S. Saint Francis Drive,Santa Fe,New Mexico,87504
+-106.604409,35.679588,Whole Foods,753 Cerrillos Rd,Santa Fe,New Mexico,87504
+-115.083661,36.021663,Whole Foods,100 S. Green Valley Pkwy,Henderson,Nevada,89011
+-115.174066,36.067384,Whole Foods,6689 Las Vegas Blvd,Las Vegas,Nevada,89118
+-115.249284,36.196252,Whole Foods,7250 W Lake Mead Blvd,Las Vegas,Nevada,89127
+-115.288332,36.158823,Whole Foods,8855 West Charleston Blvd,Las Vegas,Nevada,89116
+-119.78768,39.47358,Whole Foods,6139 S Virginia Street,Reno,Nevada,89501
+-73.8197098,42.7086029,Whole Foods,1425 Central Ave,Albany,New York,12204
+-73.988751,40.675071,Whole Foods,214 3rd Street,Brooklyn,New York,11214
+-73.959688,40.7160797,Whole Foods,238 Bedford Ave,Brooklyn,New York,11248
+-73.534679,40.787358,Whole Foods,429 North Broadway,Jericho,New York,11752
+-73.125837,40.869602,Whole Foods,120 New Moriches Road,Lake Grove,New York,11754
+-73.671695,40.796701,Whole Foods,2101 Northern Blvd,Manhasset,New York,11029
+-73.987042,40.766374,Whole Foods,10 Columbus Circle,New York,New York,10018
+-73.9533506,40.7795984,Whole Foods,1551 3rd Ave,New York,New York,10127
+-73.966089,40.759626,Whole Foods,226 East 57th Street,New York,New York,10021
+-73.995108,40.74511,Whole Foods,250 7th Ave,New York,New York,10000
+-74.011395,40.715554,Whole Foods,270 Greenwich Street,New York,New York,10006
+-73.990646,40.73469,Whole Foods,4 Union Square South,New York,New York,10002
+-73.966654,40.79467,Whole Foods,808 Columbus Avenue,New York,New York,10024
+-73.992394,40.723841,Whole Foods,95 East Houston St,New York,New York,10001
+-73.675224,40.993099,Whole Foods,575 Boston Post Road,Port Chester,New York,10572
+-73.758247,41.028011,Whole Foods,110 Bloomingdale Road,White Plains,New York,10604
+-73.8577111,40.9607508,Whole Foods,1 Ridge Hill Blvd,Yonkers,New York,10709
+-84.44414,39.148706,Whole Foods,2693 Edmondson Rd,Cincinnati,Ohio,45208
+-83.087957,40.095239,Whole Foods,3670 W Dublin-Granville Rd,Columbus,Ohio,43234
+-82.9142455,40.0482029,Whole Foods,4100 Easton Gateway Drive,Columbus,Ohio,43218
+-84.1891826,39.6280188,Whole Foods,1050 Miamisburg Centerville Road,Dayton,Ohio,45457
+-84.319892,39.30772,Whole Foods,5805 Deerfield Boulevard,Mason,Ohio,45039
+-81.8403601,41.4797569,Whole Foods,19607 Detroit Road,Rocky River,Ohio,44115
+-81.536725,41.501218,Whole Foods,13998 Cedar Rd,University Heights,Ohio,44117
+-83.052527,40.006871,Whole Foods,1555 W Lane Ave,Upper Arlington,Ohio,43220
+-81.48695,41.46252,Whole Foods,27249 Chagrin Blvd,Woodmere,Ohio,44121
+-97.529798,35.533718,Whole Foods,6001 N Western Ave,Oklahoma City,Oklahoma,73117
+-95.973409,36.104421,Whole Foods,1401 East 41st Street,Tulsa,Oklahoma,74104
+-95.922586,36.03101,Whole Foods,9136 S Yale Ave,Tulsa,Oklahoma,74136
+-79.333157,43.857352,Whole Foods,3997 Highway 7,Markham,Ontario,L3R5M5
+-79.644976,43.594606,Whole Foods,155 Square One Drive,Mississauga,Ontario,L5B0E1
+-79.679121,43.455966,Whole Foods,301 Cornwall Rd,Oakville,Ontario,L6J7Z4
+-75.6860085,45.3993083,Whole Foods,951 Bank Street,Ottawa,Ontario,K1S3W6
+-79.41038,43.76082,Whole Foods,4771 Yonge Street,Toronto,Ontario,M2N5M4
+-79.395354,43.672212,Whole Foods,87 Avenue Rd,Toronto,Ontario,M5R3R8
+-121.266068,44.055059,Whole Foods,2610 Highway 20,Bend,Oregon,97700
+-123.0875708,44.0499649,Whole Foods,353 E Broadway,Eugene,Oregon,97400
+-122.752089,45.534321,Whole Foods,19440 NW Cornell Rd,Hillsboro,Oregon,97123
+-122.6637053,45.4154051,Whole Foods,11 S State St,Lake Oswego,Oregon,97033
+-122.683361,45.523549,Whole Foods,1210 NW Couch St,Portland,Oregon,97208
+-122.618771,45.523012,Whole Foods,2825 East Burnside St,Portland,Oregon,97213
+-122.650589,45.548541,Whole Foods,3535 Nebraska 15th Ave,Portland,Oregon,97211
+-122.877228,45.536818,Whole Foods,4301 Nebraska Sandy Blvd,Portland,Oregon,97212
+-122.8020678,45.4439016,Whole Foods,12220 SW Scholls Ferry Road,Tigard,Oregon,97222
+-122.63686,45.394541,Whole Foods,7380 SW Bridgeport Rd,Tigard,Oregon,97223
+-75.5674896,40.5657806,Whole Foods,750 N Krocks Road,Allentown,Pennsylvania,18105
+-75.54404,39.865826,Whole Foods,475 Wilmington,Glen Mills,Pennsylvania,19341
+-75.120453,40.106229,Whole Foods,1575 The Fairway,Jenkintown,Pennsylvania,19045
+-75.225019,40.209971,Whole Foods,1210 Bethlehem Pike,North Wales,Pennsylvania,19453
+-75.1717119,39.9609158,Whole Foods,2001 Pennsylvania Avenue,Philadelphia,Pennsylvania,19129
+-75.1741259,39.9627391,Whole Foods,2101 Pennsylvania Avenue,Philadelphia,Pennsylvania,19129
+-75.157937,39.942755,Whole Foods,929 South Street,Philadelphia,Pennsylvania,19146
+-79.928449,40.458822,Whole Foods,5880 Centre Ave,Pittsburgh,Pennsylvania,15205
+-75.283734,40.115334,Whole Foods,500 W Germantown Pike,Plymouth Meeting,Pennsylvania,19461
+-80.0728378,40.3349915,Whole Foods,111 Siena Drive,Upper St. Clair,Pennsylvania,15240
+-75.412414,40.048174,Whole Foods,821 W Lancaster Ave,Wayne,Pennsylvania,19086
+-80.053394,40.613616,Whole Foods,10576 Perry Highway,Wexford,Pennsylvania,15089
+-75.2752753,40.0017082,Whole Foods,15 East Wynnewood Rd,Wynnewood,Pennsylvania,19095
+-71.457116,41.755672,Whole Foods,151 Sockanosset Cross Road,Cranston,Rhode Island,2919
+-71.386034,41.828065,Whole Foods,261 Waterman St,Providence,Rhode Island,2905
+-71.409309,41.83717,Whole Foods,601 N Main St,Providence,Rhode Island,2903
+-80.975499,33.992745,Whole Foods,702 Cross Hill Rd + Fort Jackson Blvd,Columbia,South Carolina,29204
+-82.300923,34.825852,Whole Foods,1140 Woodruff Road,Greenville,South Carolina,29606
+-80.717475,32.186515,Whole Foods,50 Shelter Cove Lane,Hilton Head Island,South Carolina,29927
+-79.889796,32.802079,Whole Foods,923 Houston Northcutt Blvd,Mount Pleasant,South Carolina,29463
+-85.314224,35.06263,Whole Foods,301 Manufacturers Rd,Chattanooga,Tennesse,37404
+-89.894596,35.93483,Whole Foods,1566 West McEwen Drive,Franklin,Tennesse,37066
+-89.8348312,35.0977287,Whole Foods,7825 US Highway 72,Germantown,Tennesse,38137
+-84.0154633,35.9342562,Whole Foods,6730 Papermill Drive,Knoxville,Tennesse,37918
+-89.8943329,35.1135788,Whole Foods,5014 Poplar Avenue,Memphis,Tennesse,38116
+-86.825271,36.103429,Whole Foods,4021 Hillsboro Pike,Nashville,Tennesse,37214
+-97.754274,32.953287,Whole Foods,5100 Belt Line Road,Addison,Texas,75253
+-96.752078,32.765687,Whole Foods,801 East Lamar Blvd,Arlington,Texas,76010
+-97.937587,30.406211,Whole Foods,11920 Domain Drive,Austin,Texas,78757
+-96.795189,30.221646,Whole Foods,4301 W William Cannon,Austin,Texas,78748
+-95.623349,30.270607,Whole Foods,525 N Lamar Blvd,Austin,Texas,78702
+-95.398112,30.387993,Whole Foods,9607 Research Blvd,Austin,Texas,78758
+-95.497099,30.307817,Whole Foods,12601 Hill Country Blvd,Bee Cave,Texas,78737
+-97.155632,32.8792419,Whole Foods,4801 Colleyville Blvd,Colleyville,Texas,76033
+-95.441234,32.907737,Whole Foods,11700 Preston Rd,Dallas,Texas,75229
+-97.840656,32.815725,Whole Foods,2118 Abrams Road,Dallas,Texas,75213
+-96.8019808,32.795383,Whole Foods,2510 McKinney Ave,Dallas,Texas,75200
+-96.81539,32.87187,Whole Foods,8190 Park Lane,Dallas,Texas,75230
+-106.5485269,31.8350905,Whole Foods,100 Pitt Street,El Paso,Texas,79911
+-97.743227,33.131104,Whole Foods,105 Stacy Road,Fairview,Texas,75068
+-97.3838959,32.7006721,Whole Foods,3720 Vision Drive,Fort Worth,Texas,76108
+-98.510924,32.820519,Whole Foods,4100 Lomo Alto Dr,Highland Park,Texas,75218
+-97.0846159,33.0731197,Whole Foods,4041 Waller Creek,Highland Village,Texas,75076
+-95.5622253,29.9990196,Whole Foods,10133 Louetta Road,Houston,Texas,77069
+-95.5708563,29.7366348,Whole Foods,11041 Westheimer Rd,Houston,Texas,77041
+-95.5002747,29.752388,Whole Foods,1407 South Voss Rd,Houston,Texas,77056
+-95.4614141,29.7501571,Whole Foods,1700 Post Oak Blvd,Houston,Texas,77055
+-98.479774,29.739032,Whole Foods,2955 Kirby Dr,Houston,Texas,77097
+-96.650924,29.706182,Whole Foods,4004 Bellaire Blvd,Houston,Texas,77024
+-97.099182,29.759548,Whole Foods,701 Waugh Drive,Houston,Texas,77018
+-95.573018,29.712956,Whole Foods,6601 S Fry Road,Katy,Texas,77493
+-96.765899,33.029391,Whole Foods,2201 Preston Road,Plano,Texas,75092
+-96.6989156,32.9973547,Whole Foods,1411 E Renner Road,Richardson,Texas,75081
+-95.770708,29.613418,Whole Foods,18403 Blanco Road,San Antonio,Texas,78257
+-96.821136,29.493716,Whole Foods,255 E. Basse Rd,San Antonio,Texas,78208
+-97.720267,29.59822,Whole Foods,15900 Southwest Freeway,Sugar Land,Texas,77477
+-95.4557724,30.1575203,Whole Foods,1925 Hughes Landing Blvd,The Woodlands,Texas,77379
+-111.834237,40.625918,Whole Foods,6930 S Highland Drive,Cottonwood Heights,Utah,84120
+-111.889984,40.543312,Whole Foods,11479 S State Street,Draper,Utah,84019
+-111.543122,40.72094,Whole Foods,1748 W Redstone Center Dr,Park City,Utah,84097
+-111.858348,40.723448,Whole Foods,1131 E Wilmington Ave,Salt Lake City,Utah,84105
+-111.87114,40.757494,Whole Foods,544 South 700 East,Salt Lake City,Utah,84101
+-77.059624,38.804246,Whole Foods,1700 Duke St,Alexandria,Virgina,22313
+-77.090769,38.889522,Whole Foods,2700 Wilson Blvd,Arlington,Virgina,22200
+-77.0548654,38.8628872,Whole Foods,520 12th St South,Arlington,Virgina,22201
+-77.4795685,39.0415306,Whole Foods,19800 Belmont Chase Drive,Ashburn,Virgina,20146
+-78.490366,38.059962,Whole Foods,1797 Hydraulic Road,Charlottesville,Virgina,22900
+-77.376652,38.858435,Whole Foods,4501 Market Commons Dr,Fairfax,Virgina,22032
+-77.204086,38.903038,Whole Foods,7511 Leesburg Pike,Falls Church,Virgina,22042
+-77.600104,37.648609,Whole Foods,11173 West Broad Street,Glen Allen,Virgina,23059
+-76.489654,37.102607,Whole Foods,12080 Jefferson Ave,Newport News,Virgina,23605
+-77.349078,38.95163,Whole Foods,11660 Plaza America Dr,Reston,Virgina,20189
+-77.233997,38.779264,Whole Foods,8402 Old Keene Mill Rd,Springfield,Virgina,22151
+-77.263674,38.902595,Whole Foods,143 Maple Ave East,Vienna,Virgina,22179
+-76.028025,36.850142,Whole Foods,1800 Laskin Road,Virginia Beach,Virgina,23453
+-122.2042704,47.6139247,Whole Foods,10200 Nebraska 4th St,Bellevue,Washington,98003
+-122.185534,47.618072,Whole Foods,888 116th Ave Nebraska,Bellevue,Washington,98003
+-122.4616776,48.7438354,Whole Foods,1030 Lakeway Drive,Bellingham,Washington,98228
+-122.2726669,47.8198967,Whole Foods,2800 196th St SW,Lynnwood,Washington,98035
+-122.100869,47.666515,Whole Foods,17991 Nebraska Redmond Way,Redmond,Washington,98051
+-122.317015,47.675107,Whole Foods,1026 Nebraska 64th Street,Seattle,Washington,98114
+-122.37713,47.637174,Whole Foods,2001 15th Avenue W,Seattle,Washington,98118
+-122.536232,47.2273903,Whole Foods,3515 Bridgeport Way West,University Place,Washington,98465
+-122.507387,45.615538,Whole Foods,815 Southeast 160th Avenue,Vancouver,Washington,98682
+-89.443819,43.0751,Whole Foods,3313 University Ave,Madison,Wisconsin,53704
+-87.883706,43.060374,Whole Foods,2305 N Prospect Ave,Milwaukee,Wisconsin,53210
+-88.0517225,43.0748096,Whole Foods,11100 W Burleigh Street,Wauwatosa,Wisconsin,53221
